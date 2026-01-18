@@ -1,0 +1,108 @@
+Arcane Sanctum
+Arid Mesa
+Azorius Guildgate
+Bayou
+Blood Crypt
+Bloodstained Mire
+Boros Guildgate
+Breeding Pool
+Cascade Bluffs
+Celestial Colonnade
+Commercial District
+Creeping Tar Pit
+Crumbling Necropolis
+Darksteel Citadel
+Deserted Temple
+Dimir Guildgate
+Dust Bowl
+Elegant Parlor
+Emergence Zone
+Everglades
+Faerie Conclave
+Fetid Heath
+Fire-Lit Thicket
+Flooded Grove
+Flooded Strand
+Forbidden Orchard
+Forbidding Watchtower
+Forest
+Frontier Bivouac
+Gaea's Cradle
+Gargoyle Castle
+Godless Shrine
+Golgari Guildgate
+Graven Cairns
+Gruul Guildgate
+Hallowed Fountain
+Hissing Quagmire
+Island
+Izzet Guildgate
+Jungle Shrine
+Lavaclaw Reaches
+Lush Portico
+Mana Confluence
+Marsh Flats
+Meteor Crater
+Meticulous Archive
+Mishra's Factory
+Misty Rainforest
+Mountain
+Mystic Gate
+Mystic Monastery
+Needle Spires
+Nomad Outpost
+Nykthos, Shrine to Nyx
+Okina, Temple to the Grandfathers
+Opulent Palace
+Orzhov Guildgate
+Overgrown Tomb
+Pendelhaven
+Phyrexian Tower
+Plains
+Plateau
+Polluted Delta
+Raging Ravine
+Rakdos Guildgate
+Raucous Theater
+Reflecting Pool
+Rugged Prairie
+Sacred Foundry
+Sandsteppe Citadel
+Savannah
+Scalding Tarn
+Scorched Earth
+Scrubland
+Seaside Citadel
+Selesnya Guildgate
+Shadowy Backstreet
+Shambling Vent
+Shinka, the Bloodsoaked Keep
+Simic Guildgate
+Spawning Pool
+Steam Vents
+Stirring Wildwood
+Stomping Ground
+Sunken Ruins
+Swamp
+Taiga
+Tectonic Rift
+Temple Garden
+Terramorphic Expanse
+Thespian's Stage
+Thundering Falls
+Treetop Village
+Tropical Island
+Tundra
+Unclaimed Territory
+Undercity Sewers
+Underground Mortuary
+Underground Sea
+Urza's Saga
+Verdant Catacombs
+Vesuva
+Volcanic Island
+Watery Grave
+Wellspring
+Windswept Heath
+Wooded Bastion
+Wooded Foothills

@@ -1,0 +1,215 @@
+Amazonas
+AncientSealed Tomb
+Angry Earth
+Arcane Sanctum
+Arid Mesa
+Ash Spitter
+Astral Meadow
+Atlantis
+Azorius Guildgate
+Bad Land
+Bayou
+Bison Valley
+Blood Cliff
+Blood Crypt
+Bloodshed Ground
+Bloodstained Mire
+Bogged Wood
+Boros Guildgate
+Botanical Sactum
+Breeding Pool
+Cascade Bluffs
+Celestial Colonnade
+Cloud Isle
+Command Tower I
+Command Tower II
+Command Tower III
+Command Tower IIII
+Commercial District
+Coral Sea
+Crawling Barren
+Creeping Tar Pit
+Crumbling Necropolis
+Cursed Graveyard
+Darksteel Citadel
+Defiled Churchyard
+Deserted Temple
+Dimir Guildgate
+Distant Fortress
+Dust Bowl
+Dwarven Mines
+Elegant Parlor
+Elvenriver Wood
+Emergence Zone
+Endless Sand
+Everglades
+Evolving Wild
+Faerie Conclave
+Fetid Heath
+Fire Temple
+Fire-Lit Thicket
+Floating Island
+Floating Isle
+Flooded Grove
+Flooded Strand
+Forbidden Orchard
+Forbidden Shrine
+Forbidding Watchtower
+Forest
+Frontier Bivouac
+Fungual Underwood
+Gaea's Cradle
+Gargoyle Castle
+Godless Shrine
+Golgari Guildgate
+Graven Cairns
+Great Barriere Reef
+Great Geysir
+Grotty Cave
+Growing Thicket
+Grumbling Volcano
+Gruul Guildgate
+Hallowed Fountain
+Haunted Castle
+Hidden Glade
+Highelf Tower
+Highland Castle
+Hissing Quagmire
+Holy Glade
+Infinite Industries
+Irminsaal, Tree of the Dead
+Island
+Izzet Guildgate
+Jungle
+Jungle Cave
+Jungle Shrine
+Kalahari
+Karakas, the Pale Spire
+Kilimandscharo
+Large Canyon
+Lavaclaw Reaches
+Light Temple
+Lonesome Chappel
+Lost Tomb
+Lush Portico
+Lysian Fields
+Magical Harbor
+Magma Chamber
+Magma Lake
+Mana Confluence
+Mana Henge
+Mana Tree
+Marsh Flats
+Meteor Crater
+Meticulous Archive
+Minamo, School at the Water's Edge
+Miracolous Palace
+Mishra's Factory
+Misty Rainforest
+Monumental Wall
+Mount Fang
+Mountain
+Mystic Gate
+Mystic Monastery
+Mythical Academy
+Nature Temple
+Needle Spires
+Nomad Outpost
+Nykthos, Shrine to Nyx
+Octopolis
+Okina, Temple to the Grandfathers
+Old Temple
+Olympus
+Opulent Palace
+Orzhov Guildgate
+Overgrown Tomb
+Packs Territory
+Palingenesis Cavern
+Pantanal
+Pendelhaven
+Phyrexian Tower
+Plains
+Plateau
+Polluted Delta
+Popocatepetl
+Prairie
+Prismatic Spring
+Prospering Meadows
+Raging Ravine
+Rainbow Valley
+Rakdos Guildgate
+Range Falls
+Raucous Theater
+Reflecting Fountain
+Reflecting Pool
+River Roots
+Root Born
+Rugged Prairie
+Sacred Foundry
+Sailor's Rest
+Sandsteppe Citadel
+Saragossa Patch
+Savage Land
+Savannah
+Scalding Tarn
+Scorched Earth
+Scrubland
+Seaside Citadel
+Secret Tower
+Selesnya Guildgate
+Shadow Temple
+Shadowy Backstreet
+Shambling Vent
+Shinka, the Bloodsoaked Keep
+Shizo, Deaths Storehouse
+Simic Guildgate
+Sky Ruin
+Sliver Hive on Velis Vel
+Solitary Stronghold
+Spawning Pool
+Static Planes
+Steam Vents
+Stirring Wildwood
+Stomping Ground
+Stormy Pilar
+Styx
+Sulfur Hill
+Sunken Ruins
+Swamp
+Swamp Berries
+Taiga
+Tectonic Rift
+Templar City
+Temple Garden
+Temple of Zhu Rong
+Terramorphic Expanse
+Thespian's Stage
+Thundering Falls
+Tomb Entitiy
+Treetop Village
+Tropical Island
+Tundra
+Twillight Mire
+Unclaimed Territory
+Undercity Sewers
+Underground Mortuary
+Underground Sea
+Unhallowed Abbey
+Unstable Portal
+Urza's Saga
+Verdant Catacombs
+Vesuva
+Volcanic Island
+Water Temple
+Watery Grave
+Weathered Battlefield
+Well of Youth
+Wellspring
+Wide Valley
+Willow Isle
+Windswept Heath
+Winter Weirwood
+Wooded Bastion
+Wooded Foothills
+Woody Pillars
+Woody Valley

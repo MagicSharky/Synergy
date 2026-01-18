@@ -1,0 +1,215 @@
+Abzan Falconer
+Adarkar Valkyrie
+Aeolipile
+Aether Channeler
+Aether Storm
+Ancient Greenwarden
+Ancient Stone Idol
+Angelic Intervention
+Ant Queen
+Arcane Proxy
+Archangel of Thune
+Batterskull
+Battle Frenzy
+Birthing Pod
+Blightcaster
+Bloodforged Battle-Axe
+Bloodghast
+Bloodsoaked Champion
+Bloom Tender
+Bonehoard
+Brittle Effigy
+Broadside Bombardiers
+Burning Vengeance
+Butcher of Malakir
+Captive Flame
+Chandra
+Chandra's Phoenix
+Citanul Hierophants
+Clan Defiance
+Cloak of Invisibility
+Cloudkin Seer
+Cloudstone Curio
+Conduit of Worlds
+Conjurer's Closet
+Containment Construct
+Core Prowler
+Counterspell
+Cryptbreaker
+Cryptic Command
+Crystalline Crawler
+Dark Confidant
+Dark Impostor
+Dark Salvation
+Dauthi Voidwalker
+Deathreap Ritual
+Deepglow Skate
+Devoted Druid
+Diregraf Colossus
+Disallow
+Divine Arrow
+Dragonkin Berserker
+Duplicant
+Dwarven Armory
+Eater of Virtue
+Elder Gargaroth
+Elemental Summoning
+Embercleave
+Emeria Angel
+Enduring Curiosity
+Esper Sentinel
+Everflowing Chalice
+Fabricate
+Farseek
+Fiery Confluence
+Filigree Familiar
+Fireblade Charger
+Flame Spirit
+Flameshadow Conjuring
+Flametongue Kavu
+Flesh Carver
+Fleshbag Marauder
+Flux Channeler
+Forked Bolt
+Future Sight
+Garruk
+Ghostly Pilferer
+Gilded Goose
+Glistening Oil
+Go for the Throat
+Goblin Bombardment
+Goblin Rabblemaster
+Goblin War Drums
+Goblin Welder
+Grafted Wargear
+Grave Betrayal
+Graveborn Muse
+Gravecrawler
+Gravedigger
+Grim Monolith
+Hangarback Walker
+Harvester of Souls
+Havengul Lich
+Headless Rider
+Heartbeat of Spring
+Herald's Horn
+High Priest of Penance
+Hydroid Krasis
+Ice Cauldron
+Inferno Titan
+Ingenious Smith
+Innocent Blood
+Ion Storm
+Iridescent Hornbeetle
+Kaldra Compleat
+Karn
+Kiki-Jiki, Mirror Breaker
+Krenko, Mob Boss
+Kresh the Bloodbraided
+Lightning Bolt
+Lightning Greaves
+Liliana
+Llanowar Elves
+Lord of the Undead
+Lunar Force
+Magda, Brazen Outlaw
+Magmasaur
+Magmatic Galleon
+March of the World Ooze
+Marchesa, the Black Rose
+Maskwood Nexus
+Master of Arms
+Mimic Vat
+Moonsilver Spear
+Mortarpod
+Muldrotha, the Gravetide
+Myr Battlesphere
+Mystic Confluence
+Nature's Spiral
+Necromancy
+Nightpack Ambusher
+Nomad Mythmaker
+Oath of Ghouls
+Oni-Cult Anvil
+Open the Graves
+Opposition
+Ornithopter
+Pack Rat
+Palladium Myr
+Phyrexian Delver
+Phyrexian Metamorph
+Phyrexian Revoker
+Phyrexian Swarmlord
+Plague Belcher
+Play with Fire
+Precursor Golem
+Primal Command
+Primeval Titan
+Prismatic Dragon
+Profane Command
+Promise of Tomorrow
+Purphoros, God of the Forge
+Pyromancer's Goggles
+Rage Forger
+Rakish Heir
+Rancor
+Recurring Nightmare
+Relentless Dead
+Rings of Brighthearth
+Rite of Replication
+Sanguine Bond
+Scute Swarm
+Sea Gate Stormcaller
+Sea Spirit
+Seal of Fire
+Sensei's Divining Top
+Siege-Gang Commander
+Sinew Sliver
+Skullclamp
+Solemn Simulacrum
+Spear of Heliod
+Spellskite
+Splinter Twin
+Steel Hellkite
+Stinkweed Imp
+Stonecoil Serpent
+Storm-Kiln Artist
+Strionic Resonator
+Sulfuric Vortex
+Sun Titan
+Survival of the Fittest
+Sword of the Meek
+Swords to Plowshares
+Sygg, River Cutthroat
+Talent of the Telepath
+Talrand, Sky Summoner
+Terastodon
+The One Ring
+Thief of Hope
+Thirst
+Thragtusk
+Throat Slitter
+Timberwatch Elf
+Tireless Tracker
+Trinket Mage
+Triplicate Titan
+Triskelion
+Tuktuk Scrapper
+Turn to Frog
+Undead Augur
+Urza, Lord High Artificer
+Vampiric Link
+Vendilion Clique
+Venser, Shaper Savant
+Verdant Confluence
+Viscera Seer
+Voice of the Blessed
+Voidmage Prodigy
+Voltaic Key
+Walking Ballista
+Wall of Denial
+Whip of Erebos
+Worship
+Wretched Confluence
+Wurmcoil Engine
+Yawgmoth, Thran Physician
