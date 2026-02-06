@@ -1,0 +1,1957 @@
+[CustomCards]
+[
+  {
+    "name": "Amazonas",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Amazonas.png"
+    }
+  },
+  {
+    "name": "AncientSealed Tomb",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/AncientSealed%20Tomb.png"
+    }
+  },
+  {
+    "name": "Angry Earth",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Angry%20Earth.png"
+    }
+  },
+  {
+    "name": "Arcane Sanctum II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Arcane%20Sanctum%20II.png"
+    }
+  },
+  {
+    "name": "Arid Mesa II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Arid%20Mesa%20II.png"
+    }
+  },
+  {
+    "name": "Ash Spitter",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Ash%20Spitter.png"
+    }
+  },
+  {
+    "name": "Astral Meadow",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Astral%20Meadow.png"
+    }
+  },
+  {
+    "name": "Atlantis",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Atlantis.png"
+    }
+  },
+  {
+    "name": "Azorius Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Azorius%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Bad Land",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bad%20Land.png"
+    }
+  },
+  {
+    "name": "Bayou II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bayou%20II.png"
+    }
+  },
+  {
+    "name": "Bison Valley",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bison%20Valley.png"
+    }
+  },
+  {
+    "name": "Blood Cliff",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Blood%20Cliff.png"
+    }
+  },
+  {
+    "name": "Blood Crypt II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Blood%20Crypt%20II.png"
+    }
+  },
+  {
+    "name": "Bloodshed Ground",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bloodshed%20Ground.png"
+    }
+  },
+  {
+    "name": "Bloodstained Mire II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bloodstained%20Mire%20II.png"
+    }
+  },
+  {
+    "name": "Bogged Wood",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Bogged%20Wood.png"
+    }
+  },
+  {
+    "name": "Boros Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Boros%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Botanical Sactum",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Botanical%20Sactum.png"
+    }
+  },
+  {
+    "name": "Breeding Pool II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Breeding%20Pool%20II.png"
+    }
+  },
+  {
+    "name": "Cascade Bluffs II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Cascade%20Bluffs%20II.png"
+    }
+  },
+  {
+    "name": "Celestial Colonnade II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Celestial%20Colonnade%20II.png"
+    }
+  },
+  {
+    "name": "Cloud Isle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Cloud%20Isle.png"
+    }
+  },
+  {
+    "name": "Command Tower I",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Command%20Tower%20I.png"
+    }
+  },
+  {
+    "name": "Command Tower II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Command%20Tower%20II.png"
+    }
+  },
+  {
+    "name": "Command Tower III",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Command%20Tower%20III.png"
+    }
+  },
+  {
+    "name": "Command Tower IIII",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Command%20Tower%20IIII.png"
+    }
+  },
+  {
+    "name": "Commercial District II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Commercial%20District%20II.png"
+    }
+  },
+  {
+    "name": "Coral Sea",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Coral%20Sea.png"
+    }
+  },
+  {
+    "name": "Crawling Barren",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Crawling%20Barren.png"
+    }
+  },
+  {
+    "name": "Creeping Tar Pit II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Creeping%20Tar%20Pit%20II.png"
+    }
+  },
+  {
+    "name": "Crumbling Necropolis II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Crumbling%20Necropolis%20II.png"
+    }
+  },
+  {
+    "name": "Cursed Graveyard",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Cursed%20Graveyard.png"
+    }
+  },
+  {
+    "name": "Darksteel Citadel II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Darksteel%20Citadel%20II.png"
+    }
+  },
+  {
+    "name": "Defiled Churchyard",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Defiled%20Churchyard.png"
+    }
+  },
+  {
+    "name": "Deserted Temple II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Deserted%20Temple%20II.png"
+    }
+  },
+  {
+    "name": "Dimir Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Dimir%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Distant Fortress",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Distant%20Fortress.png"
+    }
+  },
+  {
+    "name": "Dust Bowl II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Dust%20Bowl%20II.png"
+    }
+  },
+  {
+    "name": "Dwarven Mines",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Dwarven%20Mines.png"
+    }
+  },
+  {
+    "name": "Elegant Parlor II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Elegant%20Parlor%20II.png"
+    }
+  },
+  {
+    "name": "Elvenriver Wood",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Elvenriver%20Wood.png"
+    }
+  },
+  {
+    "name": "Emergence Zone II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Emergence%20Zone%20II.png"
+    }
+  },
+  {
+    "name": "Endless Sand",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Endless%20Sand.png"
+    }
+  },
+  {
+    "name": "Everglades II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Everglades%20II.png"
+    }
+  },
+  {
+    "name": "Evolving Wild",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Evolving%20Wild.png"
+    }
+  },
+  {
+    "name": "Faerie Conclave II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Faerie%20Conclave%20II.png"
+    }
+  },
+  {
+    "name": "Fetid Heath II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Fetid%20Heath%20II.png"
+    }
+  },
+  {
+    "name": "Fire Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Fire%20Temple.png"
+    }
+  },
+  {
+    "name": "Fire-Lit Thicket II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Fire-Lit%20Thicket%20II.png"
+    }
+  },
+  {
+    "name": "Floating Island",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Floating%20Island.png"
+    }
+  },
+  {
+    "name": "Floating Isle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Floating%20Isle.png"
+    }
+  },
+  {
+    "name": "Flooded Grove II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Flooded%20Grove%20II.png"
+    }
+  },
+  {
+    "name": "Flooded Strand II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Flooded%20Strand%20II.png"
+    }
+  },
+  {
+    "name": "Forbidden Orchard II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Forbidden%20Orchard%20II.png"
+    }
+  },
+  {
+    "name": "Forbidden Shrine",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Forbidden%20Shrine.png"
+    }
+  },
+  {
+    "name": "Forbidding Watchtower II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Forbidding%20Watchtower%20II.png"
+    }
+  },
+  {
+    "name": "Forest II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Forest%20II.png"
+    }
+  },
+  {
+    "name": "Frontier Bivouac II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Frontier%20Bivouac%20II.png"
+    }
+  },
+  {
+    "name": "Fungual Underwood",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Fungual%20Underwood.png"
+    }
+  },
+  {
+    "name": "Gaea's Cradle II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Gaea%27s%20Cradle%20II.png"
+    }
+  },
+  {
+    "name": "Gargoyle Castle II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Gargoyle%20Castle%20II.png"
+    }
+  },
+  {
+    "name": "Godless Shrine II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Godless%20Shrine%20II.png"
+    }
+  },
+  {
+    "name": "Golgari Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Golgari%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Graven Cairns II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Graven%20Cairns%20II.png"
+    }
+  },
+  {
+    "name": "Great Barriere Reef",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Great%20Barriere%20Reef.png"
+    }
+  },
+  {
+    "name": "Great Geysir",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Great%20Geysir.png"
+    }
+  },
+  {
+    "name": "Grotty Cave",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Grotty%20Cave.png"
+    }
+  },
+  {
+    "name": "Growing Thicket",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Growing%20Thicket.png"
+    }
+  },
+  {
+    "name": "Grumbling Volcano",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Grumbling%20Volcano.png"
+    }
+  },
+  {
+    "name": "Gruul Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Gruul%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Hallowed Fountain II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Hallowed%20Fountain%20II.png"
+    }
+  },
+  {
+    "name": "Haunted Castle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Haunted%20Castle.png"
+    }
+  },
+  {
+    "name": "Hidden Glade",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Hidden%20Glade.png"
+    }
+  },
+  {
+    "name": "Highelf Tower",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Highelf%20Tower.png"
+    }
+  },
+  {
+    "name": "Highland Castle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Highland%20Castle.png"
+    }
+  },
+  {
+    "name": "Hissing Quagmire II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Hissing%20Quagmire%20II.png"
+    }
+  },
+  {
+    "name": "Holy Glade",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Holy%20Glade.png"
+    }
+  },
+  {
+    "name": "Infinite Industries",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Infinite%20Industries.png"
+    }
+  },
+  {
+    "name": "Irminsaal, Tree of the Dead",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Irminsaal%2C%20Tree%20of%20the%20Dead.png"
+    }
+  },
+  {
+    "name": "Island II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Island%20II.png"
+    }
+  },
+  {
+    "name": "Izzet Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Izzet%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Jungle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Jungle.png"
+    }
+  },
+  {
+    "name": "Jungle Cave",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Jungle%20Cave.png"
+    }
+  },
+  {
+    "name": "Jungle Shrine II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Jungle%20Shrine%20II.png"
+    }
+  },
+  {
+    "name": "Kalahari",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Kalahari.png"
+    }
+  },
+  {
+    "name": "Karakas, the Pale Spire",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Karakas%2C%20the%20Pale%20Spire.png"
+    }
+  },
+  {
+    "name": "Kilimandscharo",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Kilimandscharo.png"
+    }
+  },
+  {
+    "name": "Large Canyon",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Large%20Canyon.png"
+    }
+  },
+  {
+    "name": "Lavaclaw Reaches II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Lavaclaw%20Reaches%20II.png"
+    }
+  },
+  {
+    "name": "Light Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Light%20Temple.png"
+    }
+  },
+  {
+    "name": "Lonesome Chappel",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Lonesome%20Chappel.png"
+    }
+  },
+  {
+    "name": "Lost Tomb",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Lost%20Tomb.png"
+    }
+  },
+  {
+    "name": "Lush Portico II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Lush%20Portico%20II.png"
+    }
+  },
+  {
+    "name": "Lysian Fields",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Lysian%20Fields.png"
+    }
+  },
+  {
+    "name": "Magical Harbor",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Magical%20Harbor.png"
+    }
+  },
+  {
+    "name": "Magma Chamber",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Magma%20Chamber.png"
+    }
+  },
+  {
+    "name": "Magma Lake",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Magma%20Lake.png"
+    }
+  },
+  {
+    "name": "Mana Confluence II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mana%20Confluence%20II.png"
+    }
+  },
+  {
+    "name": "Mana Henge",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mana%20Henge.png"
+    }
+  },
+  {
+    "name": "Mana Tree",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mana%20Tree.png"
+    }
+  },
+  {
+    "name": "Marsh Flats II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Marsh%20Flats%20II.png"
+    }
+  },
+  {
+    "name": "Meteor Crater II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Meteor%20Crater%20II.png"
+    }
+  },
+  {
+    "name": "Meticulous Archive II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Meticulous%20Archive%20II.png"
+    }
+  },
+  {
+    "name": "Minamo, School at the Water's Edge",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Minamo%2C%20School%20at%20the%20Water%27s%20Edge.png"
+    }
+  },
+  {
+    "name": "Miracolous Palace",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Miracolous%20Palace.png"
+    }
+  },
+  {
+    "name": "Mishra's Factory II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mishra%27s%20Factory%20II.png"
+    }
+  },
+  {
+    "name": "Misty Rainforest II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Misty%20Rainforest%20II.png"
+    }
+  },
+  {
+    "name": "Monumental Wall",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Monumental%20Wall.png"
+    }
+  },
+  {
+    "name": "Mount Fang",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mount%20Fang.png"
+    }
+  },
+  {
+    "name": "Mountain II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mountain%20II.png"
+    }
+  },
+  {
+    "name": "Mystic Gate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mystic%20Gate%20II.png"
+    }
+  },
+  {
+    "name": "Mystic Monastery II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mystic%20Monastery%20II.png"
+    }
+  },
+  {
+    "name": "Mythical Academy",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Mythical%20Academy.png"
+    }
+  },
+  {
+    "name": "Nature Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Nature%20Temple.png"
+    }
+  },
+  {
+    "name": "Needle Spires II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Needle%20Spires%20II.png"
+    }
+  },
+  {
+    "name": "Nomad Outpost II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Nomad%20Outpost%20II.png"
+    }
+  },
+  {
+    "name": "Nykthos, Shrine to Nyx II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Nykthos%2C%20Shrine%20to%20Nyx%20II.png"
+    }
+  },
+  {
+    "name": "Octopolis",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Octopolis.png"
+    }
+  },
+  {
+    "name": "Okina, Temple to the Grandfathers II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Okina%2C%20Temple%20to%20the%20Grandfathers%20II.png"
+    }
+  },
+  {
+    "name": "Old Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Old%20Temple.png"
+    }
+  },
+  {
+    "name": "Olympus",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Olympus.png"
+    }
+  },
+  {
+    "name": "Opulent Palace II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Opulent%20Palace%20II.png"
+    }
+  },
+  {
+    "name": "Orzhov Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Orzhov%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Overgrown Tomb II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Overgrown%20Tomb%20II.png"
+    }
+  },
+  {
+    "name": "Packs Territory",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Packs%20Territory.png"
+    }
+  },
+  {
+    "name": "Palingenesis Cavern",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Palingenesis%20Cavern.png"
+    }
+  },
+  {
+    "name": "Pantanal",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Pantanal.png"
+    }
+  },
+  {
+    "name": "Pendelhaven II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Pendelhaven%20II.png"
+    }
+  },
+  {
+    "name": "Phyrexian Tower II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Phyrexian%20Tower%20II.png"
+    }
+  },
+  {
+    "name": "Plains II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Plains%20II.png"
+    }
+  },
+  {
+    "name": "Plateau II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Plateau%20II.png"
+    }
+  },
+  {
+    "name": "Polluted Delta II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Polluted%20Delta%20II.png"
+    }
+  },
+  {
+    "name": "Popocatepetl",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Popocatepetl.png"
+    }
+  },
+  {
+    "name": "Prairie",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Prairie.png"
+    }
+  },
+  {
+    "name": "Prismatic Spring",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Prismatic%20Spring.png"
+    }
+  },
+  {
+    "name": "Prospering Meadows",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Prospering%20Meadows.png"
+    }
+  },
+  {
+    "name": "Raging Ravine II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Raging%20Ravine%20II.png"
+    }
+  },
+  {
+    "name": "Rainbow Valley",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Rainbow%20Valley.png"
+    }
+  },
+  {
+    "name": "Rakdos Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Rakdos%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Range Falls",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Range%20Falls.png"
+    }
+  },
+  {
+    "name": "Raucous Theater II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Raucous%20Theater%20II.png"
+    }
+  },
+  {
+    "name": "Reflecting Fountain",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Reflecting%20Fountain.png"
+    }
+  },
+  {
+    "name": "Reflecting Pool II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Reflecting%20Pool%20II.png"
+    }
+  },
+  {
+    "name": "River Roots",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/River%20Roots.png"
+    }
+  },
+  {
+    "name": "Root Born",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Root%20Born.png"
+    }
+  },
+  {
+    "name": "Rugged Prairie II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Rugged%20Prairie%20II.png"
+    }
+  },
+  {
+    "name": "SYL",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/SYL.png"
+    }
+  },
+  {
+    "name": "Sacred Foundry II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sacred%20Foundry%20II.png"
+    }
+  },
+  {
+    "name": "Sailor's Rest",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sailor%27s%20Rest.png"
+    }
+  },
+  {
+    "name": "Sandsteppe Citadel II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sandsteppe%20Citadel%20II.png"
+    }
+  },
+  {
+    "name": "Saragossa Patch",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Saragossa%20Patch.png"
+    }
+  },
+  {
+    "name": "Savage Land",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Savage%20Land.png"
+    }
+  },
+  {
+    "name": "Savannah II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Savannah%20II.png"
+    }
+  },
+  {
+    "name": "Scalding Tarn II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Scalding%20Tarn%20II.png"
+    }
+  },
+  {
+    "name": "Scorched Earth II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Scorched%20Earth%20II.png"
+    }
+  },
+  {
+    "name": "Scrubland II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Scrubland%20II.png"
+    }
+  },
+  {
+    "name": "Seaside Citadel II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Seaside%20Citadel%20II.png"
+    }
+  },
+  {
+    "name": "Secret Tower",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Secret%20Tower.png"
+    }
+  },
+  {
+    "name": "Selesnya Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Selesnya%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Shadow Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Shadow%20Temple.png"
+    }
+  },
+  {
+    "name": "Shadowy Backstreet II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Shadowy%20Backstreet%20II.png"
+    }
+  },
+  {
+    "name": "Shambling Vent II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Shambling%20Vent%20II.png"
+    }
+  },
+  {
+    "name": "Shinka, the Bloodsoaked Keep II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Shinka%2C%20the%20Bloodsoaked%20Keep%20II.png"
+    }
+  },
+  {
+    "name": "Shizo, Death's Storehouse",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Shizo%2C%20Death%27s%20Storehouse.png"
+    }
+  },
+  {
+    "name": "Simic Guildgate II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Simic%20Guildgate%20II.png"
+    }
+  },
+  {
+    "name": "Sky Ruin",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sky%20Ruin.png"
+    }
+  },
+  {
+    "name": "Sliver Hive on Velis Vel",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sliver%20Hive%20on%20Velis%20Vel.png"
+    }
+  },
+  {
+    "name": "Solitary Stronghold",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Solitary%20Stronghold.png"
+    }
+  },
+  {
+    "name": "Spawning Pool II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Spawning%20Pool%20II.png"
+    }
+  },
+  {
+    "name": "Static Planes",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Static%20Planes.png"
+    }
+  },
+  {
+    "name": "Steam Vents II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Steam%20Vents%20II.png"
+    }
+  },
+  {
+    "name": "Stirring Wildwood II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Stirring%20Wildwood%20II.png"
+    }
+  },
+  {
+    "name": "Stomping Ground II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Stomping%20Ground%20II.png"
+    }
+  },
+  {
+    "name": "Stormy Pilar",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Stormy%20Pilar.png"
+    }
+  },
+  {
+    "name": "Styx",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Styx.png"
+    }
+  },
+  {
+    "name": "Sulfur Hill",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sulfur%20Hill.png"
+    }
+  },
+  {
+    "name": "Sunken Ruins II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Sunken%20Ruins%20II.png"
+    }
+  },
+  {
+    "name": "Swamp Berries",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Swamp%20Berries.png"
+    }
+  },
+  {
+    "name": "Swamp II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Swamp%20II.png"
+    }
+  },
+  {
+    "name": "Taiga II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Taiga%20II.png"
+    }
+  },
+  {
+    "name": "Tectonic Rift II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Tectonic%20Rift%20II.png"
+    }
+  },
+  {
+    "name": "Templar City",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Templar%20City.png"
+    }
+  },
+  {
+    "name": "Temple Garden II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Temple%20Garden%20II.png"
+    }
+  },
+  {
+    "name": "Temple of Zhu Rong",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Temple%20of%20Zhu%20Rong.png"
+    }
+  },
+  {
+    "name": "Terramorphic Expanse II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Terramorphic%20Expanse%20II.png"
+    }
+  },
+  {
+    "name": "Thespian's Stage II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Thespian%27s%20Stage%20II.png"
+    }
+  },
+  {
+    "name": "Thundering Falls II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Thundering%20Falls%20II.png"
+    }
+  },
+  {
+    "name": "Tomb Entitiy",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Tomb%20Entitiy.png"
+    }
+  },
+  {
+    "name": "Treetop Village II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Treetop%20Village%20II.png"
+    }
+  },
+  {
+    "name": "Tropical Island II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Tropical%20Island%20II.png"
+    }
+  },
+  {
+    "name": "Tundra II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Tundra%20II.png"
+    }
+  },
+  {
+    "name": "Twillight Mire",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Twillight%20Mire.png"
+    }
+  },
+  {
+    "name": "Unclaimed Territory II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Unclaimed%20Territory%20II.png"
+    }
+  },
+  {
+    "name": "Undercity Sewers II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Undercity%20Sewers%20II.png"
+    }
+  },
+  {
+    "name": "Underground Mortuary II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Underground%20Mortuary%20II.png"
+    }
+  },
+  {
+    "name": "Underground Sea II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Underground%20Sea%20II.png"
+    }
+  },
+  {
+    "name": "Unhallowed Abbey",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Unhallowed%20Abbey.png"
+    }
+  },
+  {
+    "name": "Unstable Portal",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Unstable%20Portal.png"
+    }
+  },
+  {
+    "name": "Urza's Saga II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Urza%27s%20Saga%20II.png"
+    }
+  },
+  {
+    "name": "Verdant Catacombs II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Verdant%20Catacombs%20II.png"
+    }
+  },
+  {
+    "name": "Vesuva II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Vesuva%20II.png"
+    }
+  },
+  {
+    "name": "Volcanic Island II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Volcanic%20Island%20II.png"
+    }
+  },
+  {
+    "name": "Water Temple",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Water%20Temple.png"
+    }
+  },
+  {
+    "name": "Watery Grave II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Watery%20Grave%20II.png"
+    }
+  },
+  {
+    "name": "Weathered Battlefield",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Weathered%20Battlefield.png"
+    }
+  },
+  {
+    "name": "Well of Youth",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Well%20of%20Youth.png"
+    }
+  },
+  {
+    "name": "Wellspring II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Wellspring%20II.png"
+    }
+  },
+  {
+    "name": "Wide Valley",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Wide%20Valley.png"
+    }
+  },
+  {
+    "name": "Willow Isle",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Willow%20Isle.png"
+    }
+  },
+  {
+    "name": "Windswept Heath II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Windswept%20Heath%20II.png"
+    }
+  },
+  {
+    "name": "Winter Weirwood",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Winter%20Weirwood.png"
+    }
+  },
+  {
+    "name": "Wooded Bastion II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Wooded%20Bastion%20II.png"
+    }
+  },
+  {
+    "name": "Wooded Foothills II",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Wooded%20Foothills%20II.png"
+    }
+  },
+  {
+    "name": "Woody Pillars",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Woody%20Pillars.png"
+    }
+  },
+  {
+    "name": "Woody Valley",
+    "type": "Custom",
+    "mana_cost": "{0}",
+    "image_uris": {
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYL/Woody%20Valley.png"
+    }
+  }
+]
+
+[Settings]
+{
+  "name": "Synergy Draftmancer LANDS v4",
+  "boostersPerPlayer": 6,
+  "colorBalance": false,
+  "duplicateProtection": true
+}
+
+[MainSheet(15)]
+Amazonas
+AncientSealed Tomb
+Angry Earth
+Arcane Sanctum II
+Arid Mesa II
+Ash Spitter
+Astral Meadow
+Atlantis
+Azorius Guildgate II
+Bad Land
+Bayou II
+Bison Valley
+Blood Cliff
+Blood Crypt II
+Bloodshed Ground
+Bloodstained Mire II
+Bogged Wood
+Boros Guildgate II
+Botanical Sactum
+Breeding Pool II
+Cascade Bluffs II
+Celestial Colonnade II
+Cloud Isle
+Command Tower I
+Command Tower II
+Command Tower III
+Command Tower IIII
+Commercial District II
+Coral Sea
+Crawling Barren
+Creeping Tar Pit II
+Crumbling Necropolis II
+Cursed Graveyard
+Darksteel Citadel II
+Defiled Churchyard
+Deserted Temple II
+Dimir Guildgate II
+Distant Fortress
+Dust Bowl II
+Dwarven Mines
+Elegant Parlor II
+Elvenriver Wood
+Emergence Zone II
+Endless Sand
+Everglades II
+Evolving Wild
+Faerie Conclave II
+Fetid Heath II
+Fire Temple
+Fire-Lit Thicket II
+Floating Island
+Floating Isle
+Flooded Grove II
+Flooded Strand II
+Forbidden Orchard II
+Forbidden Shrine
+Forbidding Watchtower II
+Forest II
+Frontier Bivouac II
+Fungual Underwood
+Gaea's Cradle II
+Gargoyle Castle II
+Godless Shrine II
+Golgari Guildgate II
+Graven Cairns II
+Great Barriere Reef
+Great Geysir
+Grotty Cave
+Growing Thicket
+Grumbling Volcano
+Gruul Guildgate II
+Hallowed Fountain II
+Haunted Castle
+Hidden Glade
+Highelf Tower
+Highland Castle
+Hissing Quagmire II
+Holy Glade
+Infinite Industries
+Irminsaal, Tree of the Dead
+Island II
+Izzet Guildgate II
+Jungle
+Jungle Cave
+Jungle Shrine II
+Kalahari
+Karakas, the Pale Spire
+Kilimandscharo
+Large Canyon
+Lavaclaw Reaches II
+Light Temple
+Lonesome Chappel
+Lost Tomb
+Lush Portico II
+Lysian Fields
+Magical Harbor
+Magma Chamber
+Magma Lake
+Mana Confluence II
+Mana Henge
+Mana Tree
+Marsh Flats II
+Meteor Crater II
+Meticulous Archive II
+Minamo, School at the Water's Edge
+Miracolous Palace
+Mishra's Factory II
+Misty Rainforest II
+Monumental Wall
+Mount Fang
+Mountain II
+Mystic Gate II
+Mystic Monastery II
+Mythical Academy
+Nature Temple
+Needle Spires II
+Nomad Outpost II
+Nykthos, Shrine to Nyx II
+Octopolis
+Okina, Temple to the Grandfathers II
+Old Temple
+Olympus
+Opulent Palace II
+Orzhov Guildgate II
+Overgrown Tomb II
+Packs Territory
+Palingenesis Cavern
+Pantanal
+Pendelhaven II
+Phyrexian Tower II
+Plains II
+Plateau II
+Polluted Delta II
+Popocatepetl
+Prairie
+Prismatic Spring
+Prospering Meadows
+Raging Ravine II
+Rainbow Valley
+Rakdos Guildgate II
+Range Falls
+Raucous Theater II
+Reflecting Fountain
+Reflecting Pool II
+River Roots
+Root Born
+Rugged Prairie II
+SYL
+Sacred Foundry II
+Sailor's Rest
+Sandsteppe Citadel II
+Saragossa Patch
+Savage Land
+Savannah II
+Scalding Tarn II
+Scorched Earth II
+Scrubland II
+Seaside Citadel II
+Secret Tower
+Selesnya Guildgate II
+Shadow Temple
+Shadowy Backstreet II
+Shambling Vent II
+Shinka, the Bloodsoaked Keep II
+Shizo, Death's Storehouse
+Simic Guildgate II
+Sky Ruin
+Sliver Hive on Velis Vel
+Solitary Stronghold
+Spawning Pool II
+Static Planes
+Steam Vents II
+Stirring Wildwood II
+Stomping Ground II
+Stormy Pilar
+Styx
+Sulfur Hill
+Sunken Ruins II
+Swamp Berries
+Swamp II
+Taiga II
+Tectonic Rift II
+Templar City
+Temple Garden II
+Temple of Zhu Rong
+Terramorphic Expanse II
+Thespian's Stage II
+Thundering Falls II
+Tomb Entitiy
+Treetop Village II
+Tropical Island II
+Tundra II
+Twillight Mire
+Unclaimed Territory II
+Undercity Sewers II
+Underground Mortuary II
+Underground Sea II
+Unhallowed Abbey
+Unstable Portal
+Urza's Saga II
+Verdant Catacombs II
+Vesuva II
+Volcanic Island II
+Water Temple
+Watery Grave II
+Weathered Battlefield
+Well of Youth
+Wellspring II
+Wide Valley
+Willow Isle
+Windswept Heath II
+Winter Weirwood
+Wooded Bastion II
+Wooded Foothills II
+Woody Pillars
+Woody Valley

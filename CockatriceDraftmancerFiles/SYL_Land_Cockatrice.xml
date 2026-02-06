@@ -1,0 +1,2069 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4"><sets><set><name>SYL</name><longname>Synergy Lands</longname><settype>Custom</settype><releasedate>2026-01-02</releasedate></set></sets><cards><card>
+<name>Dwarven Mines</name>
+<text>
+
+Casted NonSoul--Abilities cost 1 less.
+2/R, T: Add R for each exiled/buried raw sorcery\artifact.
+</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Artifact Land</type></card>
+
+<card>
+<name>Darksteel Citadel II</name>
+<text>Indestructible
+T: Add C.
+Astral/Metal Birth ] Heal.
+3 Artifacts/Charms--This is also 1/1 creature with hexproof.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Artifact Land</type></card>
+
+<card>
+<name>Static Planes</name>
+<text>Discard ] Instead arise it with *P.
+
+T: Untap another colorless permanent.
+§P--1, T: Tap a colorless permanent, it loses its abilities.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Sulfur Hill</name>
+<text>Morph 0, Graft
+T: Add C.
+T: *S/*P
+T: Sacrifice: Destroy any noncreature permanent with cost =[ this *S.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Terramorphic Expanse II</name>
+<text>
+[3 Artifacts]
+{*P})
+[LEVEL +]: T: Add C.
+2/U2/B, T: Any creature is unblockable.)
+[LEVEL 0]: T, Sacrifice: Search a [non]basic land and arise it [un]tapped.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Amazonas</name>
+<text>§G--T: Add 1
+§G§G--T: Add GG
+§G§G§G§G§G--T: Add GGG</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>AncientSealed Tomb</name>
+<text>Ancient Tomb
+T: Add CC. *D*D to you/*Wplayer.
+3 Charms—%A—First Bleed ] Draw.
+
+———
+Sealed Tomb
+*P*P*P*P*P *P*P*P*P*P *P*P*P*P*P *P*P*P*P*P  3: %P
+!§P!—Sacrifice this to create the Ancient, a legendary 20/20 black Horror with flying and indestructible.</text>
+<prop><layout>normal</layout><side>front</side><type>Modal Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Modal Land</type></card>
+
+<card>
+<name>Angry Earth</name>
+<text>
+Untapped--{Enters tapped with *S*S*S*S*S}
+T: Add R
+Trample
+§R§R§R§R§R&amp;S--Ensoul (This is a creature)</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Elemental</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Elemental</type></card>
+
+<card>
+<name>Arcane Sanctum II</name>
+<text>Enters tapped (unless you return another land).
+T: Add W, B or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Plains Island Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Plains Island Swamp</type></card>
+
+<card>
+<name>Arid Mesa II</name>
+<text>T, *B, Sacrifice:
+Search a Mountain/Plain and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Ash Spitter</name>
+<text>
+{*S/*P}
+*B, T, B or R.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add B.)
+[LEVEL -]: T: Add R.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Astral Meadow</name>
+<text>2/W, T: Heal for each charm.
+%A-- Heal ] Add that many W.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Enchantment Land</type></card>
+
+<card>
+<name>Atlantis</name>
+<text>T: Add C
+*W/*Q*Q*Q*M-- T: Add UU.
+1U, T: Top a buried artifact.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Azorius Guildgate II</name>
+<text>Untapped--{Enter tapped with *S.}
+T: Add C
+&amp;S--T: Add U or W.
+WWUU, T, Remove all *S: Exile n permanents, they arise tapped.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Bad Land</name>
+<text>T: Add B or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Mountain</type></card>
+
+<card>
+<name>Bayou II</name>
+<text>T: Add G or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Forest</type></card>
+
+<card>
+<name>Bison Valley</name>
+<text>1*LMountain--Enters tapped.
+T: Add R.
+3R: This becomes also a 4/4 red Elemental creature with trample and Protection from weak creatures/spells.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Blood Cliff</name>
+<text>
+{This enters tapped with *P}
+T: Add R
+&amp;P--{Mountain} Birth ] *D to any target.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Blood Crypt II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add B or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Mountain</type></card>
+
+<card>
+<name>Bloodshed Ground</name>
+<text>
+§R/§G--Kicker H/R/H/G ] *P
+&amp;P--Spells cast with this can't be countered.
+FiendBleed--T: Add RG.
+Creatures have “Kicker--Any Bleed ] *S”.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Bloodstained Mire II</name>
+<text>
+
+T, *B, Sacrifice:
+Search a Swamp/Mountain and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Bogged Wood</name>
+<text>
+{*S/*P}
+*B, T, B or G.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add G.)
+[LEVEL -]: T: Add B.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Boros Guildgate II</name>
+<text>Untapped--{Enter tapped with *S.}
+T: Add C
+&amp;S--T: Add R or W.
+RRWW, T, Remove all *S: 
+Any creature get double strike and lifelink
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Botanical Sactum</name>
+<text>[1 Elf/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add G or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Breeding Pool II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add G or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Island</type></card>
+
+<card>
+<name>Cascade Bluffs II</name>
+<text>T: Add C.
+U/R, T: Add UU, UR, or RR.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Celestial Colonnade II</name>
+<text>Enters tapped.
+T: Add W or U.
+3WU: This becomes also a 4/4 flying white/blue Elemental creature.
+Attack ] Untap a creature/artifact.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Cloud Isle</name>
+<text>
+
+*Q, T: Add U for each ruined card.
+§U--Weak creature permanents have flying.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Enchantment Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Enchantment Artifact Land</type></card>
+
+<card>
+<name>Commercial District II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add R or G</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Forest</type></card>
+
+<card>
+<name>Coral Sea</name>
+<text>Enters tapped (unless with *W)
+§U§U§U§U§U--*U] Scry, then draw.
+T: Add U.
+T, Sacrifice: Add UU.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island</type></card>
+
+<card>
+<name>Crawling Barren</name>
+<text>
+T: Add C.
+§S--T, Sacrifice: Destroy any nonbasic land.
+2: *S, {this becomes also a 0/0 Elemental creature}.
+------------------------------------------
+*FRite 1: Search a basic land.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Creeping Tar Pit II</name>
+<text>Enters tapped.
+T: Add B or U.
+1UB: This becomes also 3/2 blue/black Elemental creature with toxic and unblockable.
+Attack ] *Q*Q*Q</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Crumbling Necropolis II</name>
+<text>Enters tapped (unless you return another land).
+T: Add U, B or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Island Swamp Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Island Swamp Mountain</type></card>
+
+<card>
+<name>Cursed Graveyard</name>
+<text>[1 Zombie/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add B or G.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Defiled Churchyard</name>
+<text>Birth--Sacrifice (unless you discard a creature).
+T: Add B or R
+§R§R/§R§B/§B§B--T: Any buried creature has “*T--Unearth as Zombie*MH”.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Deserted Temple II</name>
+<text>
+Dredge 2
+T: Add C.
+1, T/Sacrifice a permanent: Untap any permanent with cost =[ your artifacts/charms, if that permanent is a creature you may prevent all damage dealt to and by it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Dimir Guildgate II</name>
+<text>Untapped--{Enter tapped with *S.}
+T: Add C
+&amp;S--T: Add U or B.
+UUBB, T, Remove all *S: Look at any top three, {bury n of them}, draw.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Distant Fortress</name>
+<text>[1 Soldier/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add W or G.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Dust Bowl II</name>
+<text>
+T: Add R.
+12/R, T: Destroy any nonbasic land.
+§R--Weak creature permanents have haste.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Elegant Parlor II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add R or W</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Plains</type></card>
+
+<card>
+<name>Elvenriver Wood</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add G or U</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Island</type></card>
+
+<card>
+<name>Emergence Zone II</name>
+<text>T: Add C
+1, T, Sacrifice: To search a basic land and arise it tapped.
+[2/G]/UG/'1, Sacrifice', T: %R
+----------------------------------------
+*FRite 1U: [!Creatures!]/Spells have *F.
+Draw unless this is a %R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Endless Sand</name>
+<text>[*W]
+
+T: Add C.
+2/W, T: Exile a/[any] creature.
+4/*U, Sacrifice: Remove n *K from any target.
+!Loss! ] Each card exiled with this arises.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Desert</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Desert</type></card>
+
+<card>
+<name>Everglades II</name>
+<text>T: Add B
+BB, T: Add B for each Swamp.
+
+§B--Birth ] Exile any graveyard.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Evolving Wild</name>
+<text>
+[3 Charms]
+{*P})
+[LEVEL -]: T: Add C
+2/G2/B, T: Proliferate)
+[LEVEL 0]: T, Sacrifice: Search a [non]basic land and arise it [un]tapped.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Faerie Conclave II</name>
+<text>
+1*LIsland--Enters tapped.
+T: Add U.
+1U: This becomes also a 2/1 blue Faerie with flying and traumatic *Q*Q*Q.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Fetid Heath II</name>
+<text>T: Add C.
+W/B, T: Add WW, WB, or BB.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Fire Temple</name>
+<text>
+[Alliance]
+Birth ] Choose [Ally]/ 'a noncreature cardtype'
+{*T}TypeLess--Enters tapped
+T: Add R
+T: Add S to cast/activate the chosen type.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Fire-Lit Thicket II</name>
+<text>T: Add C.
+R/G, T: Add RR, RG, or GG.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Floating Island</name>
+<text>Enters tapped.
+T: Add G or U.
+Other Land/Soul *Ss ] *S.
+2GU: This becomes also 2/3 green/blue Elemental creature. 
+Strike ] Draw.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Floating Isle</name>
+<text>
+Untapped--{Enters tapped with *S*S*S*S}
+T: Add U
+Swimming (Blockers must have flying/swimming)
+§U§U§U§U§U&amp;S--Ensoul (This is a creature)
+
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island Elemental</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island Elemental</type></card>
+
+<card>
+<name>Flooded Grove II</name>
+<text>T: Add C.
+G/U, T: Add GG, GU, or UU.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Flooded Strand II</name>
+<text>T, *B, Sacrifice:
+Search a Plain/Island and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Forbidden Orchard II</name>
+<text>
+{*P ] This enters tapped.}
+&amp;P--T: Add C.
+T: Add S, any fiend creates a 1/1 Spirit!
+&amp;P7 Lands--Land Birth ] Create a 2/2 Mimic.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Forbidden Shrine</name>
+<text>
+
+T: Add B.
+2/B, T: Exile any buried card.
+§B--Weak creature permanents have 2/B: Regenerate.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Forbidding Watchtower II</name>
+<text>1*LPlains--Enters tapped.
+T: Add W.
+1W: This becomes also a 1/5 white Soldier creature with vigilance and can block creatures as they didn't have any abilities.
+Block ] Untap and remove the blocked creature from combat.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Frontier Bivouac II</name>
+<text>Enters tapped (unless you return another land).
+T: Add U, R or G.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Island Mountain Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Island Mountain Forest</type></card>
+
+<card>
+<name>Fungual Underwood</name>
+<text>
+{This enters tapped with *P}
+T: Add G
+&amp;P--{Forest} Birth ] Create a 1/1 Saproling.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Gaea's Cradle II</name>
+<text>T: Add G for each creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Gargoyle Castle II</name>
+<text>T: Add C or S to cast an Ally.
+1: This becomes a 1/1 artifact Gargoyle Ally creature with infect and flying.
+2: This becomes a 3/2 artifact Golem Ally creature.
+5, T, Sacrifice: Create a 3/4 artifact Gargoyle Ally with flying.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Ally</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Ally</type></card>
+
+<card>
+<name>Godless Shrine II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add B or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Plains</type></card>
+
+<card>
+<name>Golgari Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add B or G.
+BBGG, T, Remove all *S: Any creature gets *S/*P, then proliferate.
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Graven Cairns II</name>
+<text>T: Add C.
+B/R, T: Add BB, BR, or RR.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Great Barriere Reef</name>
+<text>T, Add U
+UU, T: Add U for each Island.
+§U--Birth ] Create a Clue.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Great Geysir</name>
+<text>Morph 1
+T: Add C
+T: Add S to cast a sorcery.
+%A&amp;S--Ritual Cast ] X *D to any target. Where X is the number of sorcery spells cast before that spell this turn plus 1.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Grotty Cave</name>
+<text>[1 Goblin/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add R or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Growing Thicket</name>
+<text>
+Untapped--{Enters tapped with *S*S*S*S*S*S*S}
+T: Add G
+Can't be blocked by weak creatures.
+§G§G§G§G§G&amp;S--Ensoul (This is a creature)
+
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Elemental</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Elemental</type></card>
+
+<card>
+<name>Grumbling Volcano</name>
+<text>
+Enters tapped {unless your creatures are tapped}.
+*B, T: Any spell gets twist.
+T: Add R or B {to cast a creature it has unleash.}
+Creatures with offender have haste.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Gruul Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add R or G.
+RRGG, T, Remove all *S: A creature creature gets provoke, wither, trample and can't be blocked by more than one creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Hallowed Fountain II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add W or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains Island</type></card>
+
+<card>
+<name>Haunted Castle</name>
+<text>[1 Vampire/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add B or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Hidden Glade</name>
+<text>
+{*S/*P}
+*B, T, G or W.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add G.)
+[LEVEL -]: T: Add W.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Highelf Tower</name>
+<text>{*P}
+T: Add C.
+T: Add S to cast a charm.
+§P'Wisdom'--You have no maximum handsize
+&amp;P'Wit'--1, T: Fiend {permanents} lose hexproof, shroud, ward and protection.
+</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Highland Castle</name>
+<text>
+0 Modified creature--This enters tapped
+Creatures have mentor.
+T: Add W or R, if you pay for attaching a gear this way, you may attach it with *F.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Hissing Quagmire II</name>
+<text>
+Enters tapped.
+T: Add B or G.
+1BG: This becomes also 2/2 green/black Elemental creature with deathtouch/toxic *P*P.
+*R*O2: +1/+1 for each buried creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Holy Glade</name>
+<text>
+0 Tokens--This enters tapped
+T: Add G or W.
+G/W, T: Duplicate a Token/Morph.
+Soul Death ] Any creature gets its *Ks.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Infinite Industries</name>
+<text>[§U§U]
+T: Add 'C /[U]' {for each other artifact}.
+%A-- 1, T: End the turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Artifact Land</type></card>
+
+<card>
+<name>Irminsaal, Tree of the Dead</name>
+<text>*Morbid*--Abilities cost 1 less if any creature died.
+0: Sacrifice a creature.
+2/B, T: Add B for each creature in any player's graveyard.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Enchantment Land</type></card>
+
+<card>
+<name>Izzet Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add U or R.
+UURR, T, Remove all *S: Cast a buried sorcery for 0.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Jungle</name>
+<text>
+T: Add G
+GG, T: Add G for each Forest.
+§G--Birth ] Morph your top or Duplicate</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Jungle Cave</name>
+<text>[1 Beast/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add G or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Jungle Shrine II</name>
+<text>Enters tapped (unless you return another land).
+T: Add R, G or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Mountain Forest Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Mountain Forest Plains</type></card>
+
+<card>
+<name>Kalahari</name>
+<text>§W--T: Add 1
+§W§W--T: Add WW
+§W§W§W§W§W--T: Add WWW</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Karakas, the Pale Spire</name>
+<text>
+
+T: Add W.
+W, T: Return a creature or any Legend
+
+</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Kilimandscharo</name>
+<text>T: Add R
+RR, T: Add R for each Mountain.
+
+§R--Birth ] Draw 2, Discard 2.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Large Canyon</name>
+<text>
+{*S/*P}
+*B, T, R or W.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add W.)
+[LEVEL -]: T: Add R.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Lavaclaw Reaches II</name>
+<text>Enters tapped.
+T: Add B or R.
+1BR: This becomes also a 2/2 black/red Elemental creature with menace and “1: +1/+0.”
+Attack ] Discard, Draw</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Light Temple</name>
+<text>
+[Alliance]
+Birth ] Choose [Ally]/ 'a noncreature cardtype'
+{*T}TypeLess--Enters tapped
+T: Add W
+T: Add S to cast/activate the chosen type.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Lonesome Chappel</name>
+<text>[1 Priest/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add W or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Lost Tomb</name>
+<text>
+§B--T: Add B
+3*MZombie/Vampire ] T: Add BB
+§B--Birth ] Rise a buried creature with c =[ Swamps.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Lush Portico II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add G or W</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Plains</type></card>
+
+<card>
+<name>Lysian Fields</name>
+<text>
+T: Add C.
+Fateful hour/NonWeak Heal-- T: Add WW.
+1W, T: Top a buried charm.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Magical Harbor</name>
+<text>
+§U--T: Add U
+3*MMerfolk/Mage ] T: Add UU
+§U--Birth ] Scry for each Island.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Magma Chamber</name>
+<text>§R--T: Add R
+3*MDwarf/Goblin ] T: Add RR
+Birth ] *D to any player for each Mountain.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Magma Lake</name>
+<text>
+2*LArtifacts--Enters tapped
+§R§R§R§R§R--*U ] *D*D*D to any target.
+T: Add R.
+T, Sacrifice: Add RR.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain</type></card>
+
+<card>
+<name>Mana Confluence II</name>
+<text>*B, T: Add S
+3 Charms--T: Add S and heal.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Mana Henge</name>
+<text>
+
+T: Add S to cast a multicolor spell.
+T: Add CCC to cast a colorless spell.
+5, T: Add SSSSS.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Mana Tree</name>
+<text>3 *TSorceries/Kicker 7 ] *P
+T: Add C
+T: Add S to cast a noncreature spell. Then look at your top card, if it has the same type, reveal and memorize it.
+&amp;P--Nonsoul Cast ] *D to any creature/player for each *P, then *P. </text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Marsh Flats II</name>
+<text>T, *B, Sacrifice:
+Search a Plains/Swamp and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Meteor Crater II</name>
+<text>
+0 *TRitual--Enters tapped
+T: Add U or R.
+§U/§R--T: Add *H
+3 *TRituals--Sorceries have replicate.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Meticulous Archive II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add W or U</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains Island</type></card>
+
+<card>
+<name>Minamo, School at the Water's Edge</name>
+<text>T: Add U.
+U, T: Untap any legend/creature, it deals and receives no combat damage this turn.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Miracolous Palace</name>
+<text>T: Add C
+T: Add S to cast a noncreature spell that can't be countered.
+2, T: Top any buried Gear/Aura.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Mishra's Factory II</name>
+<text>
+T: Add C
+1|'T, 7': This becomes|creates a 2/2 Ally Assembly-Worker*M artifact creature.
+T: Any colorless creature gets +1/+1.
+XX, T: Any colorless creature gets +X/+X.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Misty Rainforest II</name>
+<text>T, *B, Sacrifice:
+Search a Forest/Island and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Monumental Wall</name>
+<text>[1 Dwarf/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add R or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Mount Fang</name>
+<text>T: Add C.
+1: This becomes a colorless 2/2 Mimic creature*M.
+*V--H: Infect (This deals *D as *P)
+*W--2: +2/+2 and *Q-Strike.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Mystic Gate II</name>
+<text>T: Add C.
+W/U, T: Add WW, WU, or UU.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Mystic Monastery II</name>
+<text>Enters tapped (unless you return another land).
+T: Add R, W or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Mountain Plains Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Mountain Plains Island</type></card>
+
+<card>
+<name>Mythical Academy</name>
+<text>[1 Mage/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add U or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Nature Temple</name>
+<text>
+[Alliance]
+Birth ] Choose [Ally]/ 'a noncreature cardtype'
+{*T}TypeLess--Enters tapped
+T: Add G
+T: Add S to cast/activate the chosen type.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Needle Spires II</name>
+<text>Enters tapped.
+T: Add R or W.
+1RW: This becomes also a 1/1 red/white Elemental creature with double strike.
+Attack ] Any creature gets *S.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Nomad Outpost II</name>
+<text>Enters tapped (unless you return another land).
+T: Add W, B or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Plains Swamp Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Plains Swamp Mountain</type></card>
+
+<card>
+<name>Nykthos, Shrine to Nyx II</name>
+<text>
+T: Add C.
+T: Add S to cast a multicolored spell.
+2, T: Add X mana. Where X is your devotion to the color of that mana.
+</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Octopolis</name>
+<text>[1 Merfolk/3*Llands/2*Mfiends]
+Enters [un]tapped
+T: Add U or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Okina, Temple to the Grandfathers II</name>
+<text>
+T: Add G.
+G, T: Any Legend/creature gets root.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Old Temple</name>
+<text>
+{*S/*P}
+*B, T, W or B.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add W.)
+[LEVEL -]: T: Add B.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Olympus</name>
+<text>
+T: Add C.
+Hellbent/'3 *TSorceries'-- T: Add RR.
+1R, T: Top a buried sorcery.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Opulent Palace II</name>
+<text>Enters tapped (unless you return another land).
+T: Add G, U or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Island Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Island Swamp</type></card>
+
+<card>
+<name>Orzhov Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add W or B.
+WWBB, T, Remove all *S: 
+Rise any creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Overgrown Tomb II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add G or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Swamp</type></card>
+
+<card>
+<name>Packs Territory</name>
+<text>
+§G--T: Add G
+3*MBeast/Elf ] T: Add GG
+Birth ] Any permanent gets *S for each Forest.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Palingenesis Cavern</name>
+<text>
+0 *TCreature--This enters tapped.
+
+T: Exile a buried card: Add G or B, then heal.
+*U--Don't untap this: A creature get dredge.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Pantanal</name>
+<text>§B--T: Add 1
+§B§B--T: Add BB
+§B§B§B§B§B--T: Add BBB</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Pendelhaven II</name>
+<text>
+
+T: Add G.
+2/G, T: Arise a land tapped.
+§G--Weak creature permanents gets +1/+1.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Phyrexian Tower II</name>
+<text>
+T: Add C.
+T, Sacrifice a creature: Add CC.
+T: Any player discards, then draws.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Plateau II</name>
+<text>T: Add R or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Plains</type></card>
+
+<card>
+<name>Polluted Delta II</name>
+<text>T, *B, Sacrifice:
+Search a Swamp/Island and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Popocatepetl</name>
+<text>§R--T: Add 1
+§R§R--T: Add RR
+§R§R§R§R§R--T: Add RRR</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Prairie</name>
+<text>T: Add W
+WW, T: Add W for each Plains.
+
+§W--Birth ] Create two Food.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Prismatic Spring</name>
+<text>T, *B, Sacrifice: Search a basic land and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Prospering Meadows</name>
+<text>
+Untapped--{Enters tapped with *S*S*S*S*S}
+T: Add W
+Vigilance
+§W§W§W§W§W&amp;S--Ensoul (This is a creature)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains Elemental</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains Elemental</type></card>
+
+<card>
+<name>Raging Ravine II</name>
+<text>Enters tapped.
+T: Add R or G.
+2RG: This becomes also a 3/3 red/green Elemental creature.
+Attack ] *S on each attacking creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Rainbow Valley</name>
+<text>T: Add C.
+*B*B, T: Add S
+
+Forest Birth ] Untap
+Plains Birth ] Heal 3
+Island Birth ] *Q*Q*Q
+Swamp Birth ] Any target gets *P.
+Mountain Birth ] *D to any player.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Enchantment Land</type></card>
+
+<card>
+<name>Rakdos Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add B or R.
+BBRR, T, Remove all *S:
+Destroy any creature/planeswalker.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Range Falls</name>
+<text>
+{*S/*P}
+*B, T, U or R.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add U.)
+[LEVEL -]: T: Add R.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Raucous Theater II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add B or R</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Mountain</type></card>
+
+<card>
+<name>Reflecting Fountain</name>
+<text>Enters tapped.
+T: Add R or U.
+pUR: This clones any creature except it keeps its name, abilities is also blue/red and is land.
+Attack ] Scry (Look at your top, {base it}.)</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Reflecting Pool II</name>
+<text>
+T: Add one mana of any type that a land you/ *W/*V-player could produce.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>River Roots</name>
+<text>
+*S
+Spiked permanents have graft.
+T: Add C, then *S.
+T, Remove X *S: Add X in any combination of G/U.
+§G|§U, %S, T: Add *F to cast a creature|noncreature.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Root Born</name>
+<text>
+(Root Born isn't a spell, it's affected by summoning sickness and it's green.)
+§G§G--T: Any creature/land gets root.
+Permanent spells have convoked.</text>
+<prop><layout>normal</layout><side>front</side><type>Land Creature -- Elf Dryad</type><maintype>Land</maintype><cmc>0</cmc><pt>1/1</pt></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land Creature -- Elf Dryad</type></card>
+
+<card>
+<name>Rugged Prairie II</name>
+<text>T: Add C.
+R/W, T: Add WW, RW, or RR.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Sacred Foundry II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add R or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Plains</type></card>
+
+<card>
+<name>Sailor's Rest</name>
+<text>
+{*S/*P}
+*B, T, U or B.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add U.)
+[LEVEL -]: T: Add B.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Sandsteppe Citadel II</name>
+<text>Enters tapped (unless you return another land).
+T: Add B, G or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Plains Swamp Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Plains Swamp Forest</type></card>
+
+<card>
+<name>Saragossa Patch</name>
+<text>§U--T: Add 1
+§U§U--T: Add UU
+§U§U§U§U§U--T: Add UUU</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Savage Land</name>
+<text>Enters tapped (unless you return another land).
+T: Add B, R or G.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Mountain Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Mountain Forest</type></card>
+
+<card>
+<name>Savannah II</name>
+<text>T: Add G or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Plains</type></card>
+
+<card>
+<name>Scalding Tarn II</name>
+<text>
+
+T, *B, Sacrifice:
+Search a Mountain/Island and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Scorched Earth II</name>
+<text>
+Enters tapped (unless with *V)
+§B§B§B§B§B--*U ] Destroy any tapped creature.
+T: Add B.
+T, Sacrifice: Add BB.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Swamp</type></card>
+
+<card>
+<name>Scrubland II</name>
+<text>T: Add W or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Plains Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Plains Swamp</type></card>
+
+<card>
+<name>Seaside Citadel II</name>
+<text>Enters tapped (unless you return another land).
+T: Add G, W or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land — Forest Island Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land — Forest Island Plains</type></card>
+
+<card>
+<name>Secret Tower</name>
+<text>[*W]/'Any 2*Lruined cards'--This enter tapped
+
+T: Any player adds U or B and has *Q*Q.
+§U|§B--Auras|buried cards have hexproof.
+[*F]/*R-Sorceries have memorize.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Selesnya Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add G or W.
+GGWW, T, Remove all *S: Duplicate, then creatures get *S.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Shadow Temple</name>
+<text>
+[Alliance]
+Birth ] Choose [Ally]/ 'a noncreature cardtype'
+{*T}TypeLess--Enters tapped
+T: Add B
+T: Add S to cast/activate the chosen type.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Shadowy Backstreet II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add W or B</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains Swamp</type></card>
+
+<card>
+<name>Shambling Vent II</name>
+<text>Enters tapped.
+T: Add W or B.
+1WB: This becomes also a 2/3 white/black Elemental creature with lifelink and W/B: Indestructible.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Shinka, the Bloodsoaked Keep II</name>
+<text>
+T: Add R. 
+Spells cast with that mana can't be countered.
+R, T: Any creature gets haste and is goaded. {If its a Legend it gets double strike}.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Shizo, Death's Storehouse</name>
+<text>
+T: Add B.
+B, T: Top any buried Legend/creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Simic Guildgate II</name>
+<text>Untapped--{Enter tapped with a *S.}
+T: Add C
+&amp;S--T: Add G or U.
+GGUU, T, Remove all *S: 
+Clone any fiend permanent.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Sky Ruin</name>
+<text>2*LCharms--Enters tapped
+§W§W§W§W§W--*U ] Rise any creature.
+T: Add W.
+T, Sacrifice: Add WW.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains</type></card>
+
+<card>
+<name>Sliver Hive on Velis Vel</name>
+<text>*T/*Y/%M/*I--This is a 1/1 Mimic.
+
+T: Add 1.
+T: Add S to cast Ally/Slivers.
+1 Ally--4, T: Create a 1/1 charm Mimic</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Solitary Stronghold</name>
+<text>Enters tapped unless you skip your *C
+Fiendly Friend {Matter} Hex ] Untap
+T: Add U or W.
+T: Counter any spell that hexs any friend {permanent} unless it caster pay 1.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Spawning Pool II</name>
+<text>1*LSwamp--Enters tapped
+T: Add B.
+XB: This becomes also a 1/1 black Skeleton creature with “p: indestructible” and “Sacrifice another creature: *S.
+Where X are this *S.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Steam Vents II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add U or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island Mountain</type></card>
+
+<card>
+<name>Stirring Wildwood II</name>
+<text>Enters tapped.
+T: Add G or W.
+XGW: This becomes also 3/3 green/white Elemental creature with reach and gets +0/+X.
+Attack ] Create a green/white 1/1 Plant.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Stomping Ground II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add G or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Mountain</type></card>
+
+<card>
+<name>Stormy Pilar</name>
+<text>{This enters tapped with *P}
+T: Add U
+&amp;P--{Island} Birth ] Look at any top, *Q*Q*Q.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Styx</name>
+<text>T: Add C.
+*V*V-- T: Add BB.
+1B, T: Top a buried creature.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Land</type></card>
+
+<card>
+<name>Sunken Ruins II</name>
+<text>T: Add C.
+U/B, T: Add UU, UB, or BB.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Swamp Berries</name>
+<text>{This enters tapped with *P}
+T: Add B
+&amp;P--{Swamp} Birth ] Exile any buried card to heal 2.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Taiga II</name>
+<text>T: Add R or G.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Forest</type></card>
+
+<card>
+<name>Tectonic Rift II</name>
+<text>{*P}
+1: *S
+&amp;P--T: Add C
+§P--*H, T, Sacrifice: {[Destroy any land]}. The owner of the last destroyed land arises an archived basic land [un]tapped.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Templar City</name>
+<text>§W--T: Add W
+3*MSoldier/Priest ] T: Add WW
+Birth ] Create a 1/1 Soldier for each Plains.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Temple Garden II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add G or W.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Plains</type></card>
+
+<card>
+<name>Temple of Zhu Rong</name>
+<text>
+
+!Birth! ] Sacrifice it unless you discard a sorcery.
+T: Add R or U
+§U§U/§U§R/§R§R--T: Any sorcery gets “*T--Cast”.</text>
+<prop><layout>normal</layout><side>front</side><type>Artifact Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Artifact Land</type></card>
+
+<card>
+<name>Thespian's Stage II</name>
+<text>
+T: Add U
+2/U, T: This evolves into a clone of any land/legend and keeps this ability.
+§U--Weak creature permanents have hexproof.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Thundering Falls II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add U or R</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island Mountain</type></card>
+
+<card>
+<name>Tomb Entitiy</name>
+<text>
+Untapped--{Enters tapped with *S*S*S*S*S}
+T: Add B
+Menace
+§B§B§B§B§B&amp;S--Ensoul (This is a creature)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Elemental</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Elemental</type></card>
+
+<card>
+<name>Treetop Village II</name>
+<text>1*LForest --Enters tapped
+T: Add G.
+1G: This becomes also a 3/3 green Ape creature with trample and toxic.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Tropical Island II</name>
+<text>T: Add G or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest Island</type></card>
+
+<card>
+<name>Tundra II</name>
+<text>T: Add W or U.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Plains Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Plains Island</type></card>
+
+<card>
+<name>Twillight Mire</name>
+<text>T: Add C.
+B/G, T: Add BB, BG, or GG.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Unclaimed Territory II</name>
+<text>Alliance
+T: Add C.
+T: Add *HS to cast Ally spells.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Undercity Sewers II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add U or B</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island Swamp</type></card>
+
+<card>
+<name>Underground Mortuary II</name>
+<text>This enters tapped
+Birth ] Surveil 1
+T: Add B or G</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Forest</type></card>
+
+<card>
+<name>Underground Sea II</name>
+<text>T: Add U or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Swamp Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Swamp Island</type></card>
+
+<card>
+<name>Unhallowed Abbey</name>
+<text>Land-Boon WB
+Fiend Attack ] Heal and that fiend bleeds.
+--------------------------------------------------
+Enters tapped (unless with *Morbid* (if any creature died))
+T: {Exile a buried card}
+When this becomes tapped, add W or B
+Extort (Each Cast ] Pay W/B to have each fiend *B and you heal that much.)</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Unstable Portal</name>
+<text>[4 Lands]
+{*P}
+&amp;P--!Land Play! ] Sacrifice this.
+&amp;P--T: Add CC
+§P--T: Sacrifice: Arise an archived basic land [un]tapped.
+§P--T: Sacrifice: A weak creature gets unblockable.
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Urza's Saga II</name>
+<text />
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land -- Urza's Saga</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land -- Urza's Saga</type></card>
+
+<card>
+<name>Verdant Catacombs II</name>
+<text>T, *B, Sacrifice:
+Search a Forest/Swamp and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Vesuva II</name>
+<text>
+[*W]/5 Lands--T: Add CC.
+
+You may have Vesuva enter tapped as a clone of any land/[artifact/charm].</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Volcanic Island II</name>
+<text>T: Add U or R.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Mountain Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Mountain Island</type></card>
+
+<card>
+<name>Water Temple</name>
+<text>
+[Alliance]
+Birth ] Choose [Ally]/ 'a noncreature cardtype'
+{*T}TypeLess--Enters tapped
+T: Add U
+T: Add S to cast/activate the chosen type.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Watery Grave II</name>
+<text>Enters tapped unless you pay *B*B.
+T: Add U or B.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Island Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Island Swamp</type></card>
+
+<card>
+<name>Weathered Battlefield</name>
+<text>
+{This enters tapped with *P}
+T: Add W
+&amp;P--{Plains} Birth ] Any target gets *S.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Well of Youth</name>
+<text>T: Add W.
+2/W, T: Heal for each weak\colorless creature permanent.
+§W--Weak creature permanents have vigilance.</text>
+<prop><layout>normal</layout><side>front</side><type>Enchantment Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Enchantment Land</type></card>
+
+<card>
+<name>Wellspring II</name>
+<text>*P*P*P
+NonSoul Cast ] Any target gets *S.
+T: Add C
+&amp;S--T: Add S. Copy each sorcery cast with that mana.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Wide Valley</name>
+<text>
+{*S/*P}
+*B, T, W or U.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add U.)
+[LEVEL -]: T: Add W.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Willow Isle</name>
+<text>
+{*S/*P}
+*B, T, U or G.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add U.)
+[LEVEL -]: T: Add G.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Windswept Heath II</name>
+<text>T, *B, Sacrifice:
+Search a Plain/Forest and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Winter Weirwood</name>
+<text>
+T: Add C.
+Mighty Soul-- T: Add GG.
+1G, T: Top a buried land on top.</text>
+<prop><layout>normal</layout><side>front</side><type>Legendary Snow Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Legendary Snow Land</type></card>
+
+<card>
+<name>Wooded Bastion II</name>
+<text>T: Add C.
+G/W, T: Add WW, GW, or GG.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Wooded Foothills II</name>
+<text>
+
+T, *B, Sacrifice:
+Search a Mountain/Forest and arise it.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Woody Pillars</name>
+<text>
+{*S/*P}
+*B, T, R or G.
+1, T, Sacrifice: Draw.)
+[LEVEL +]: T: Add G.)
+[LEVEL -]: T: Add R.)
+</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Woody Valley</name>
+<text>0 Mighty Soul--Enters tapped
+§G§G§G§G§G-- *U ] Morph your top.
+T: Add G.
+T, Sacrifice: Add GG.</text>
+<prop><layout>normal</layout><side>front</side><type>Land -- Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land -- Forest</type></card>
+
+<card>
+<name>Plains II</name>
+<text>T: Add W.</text>
+<prop><layout>normal</layout><side>front</side><type>Basic Land -- Plains</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Basic Land -- Plains</type></card>
+
+<card>
+<name>Island II</name>
+<text>T: Add U.</text>
+<prop><layout>normal</layout><side>front</side><type>Basic Land -- Island</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Basic Land -- Island</type></card>
+
+<card>
+<name>Swamp II</name>
+<text>T: Add B.</text>
+<prop><layout>normal</layout><side>front</side><type>Basic Land -- Swamp</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Basic Land -- Swamp</type></card>
+
+<card>
+<name>Mountain II</name>
+<text>T: Add R.</text>
+<prop><layout>normal</layout><side>front</side><type>Basic Land -- Mountain</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Basic Land -- Mountain</type></card>
+
+<card>
+<name>Forest II</name>
+<text>T: Add G</text>
+<prop><layout>normal</layout><side>front</side><type>Basic Land -- Forest</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Basic Land -- Forest</type></card>
+
+<card>
+<name>Command Tower I</name>
+<text>T: Add one mana of any color in your commander's color identity.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Command Tower II</name>
+<text>T: Add one mana of any color in your commander's color identity.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Command Tower III</name>
+<text>T: Add one mana of any color in your commander's color identity.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+<card>
+<name>Command Tower IIII</name>
+<text>T: Add one mana of any color in your commander's color identity.</text>
+<prop><layout>normal</layout><side>front</side><type>Land</type><maintype>Land</maintype><cmc>0</cmc></prop><tablerow>1</tablerow>
+<set>SYL</set>
+<type>Land</type></card>
+
+</cards></cockatrice_carddatabase>
