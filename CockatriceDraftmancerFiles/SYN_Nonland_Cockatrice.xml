@@ -1258,6 +1258,7 @@ Rite 4W: Choose any creature, destroy all stronger creatures.</text>
 <name>Reconaissance</name>
 <text>Morph--Â§W
 Â§W--Charms have twist*- W.
+Tap an non-aggressive white &amp;Upermanent: Any creature gets +1/+1.
 0: Remove an attacking creature from combat and untap it. (You may remove that creature before/after it dealt damage.)
 W|1WW, Sacrifice: %R
 ------------------------------------------------------
@@ -3518,13 +3519,12 @@ Mages have twist.
 
 <card>
 <name>Whale Rider</name>
-<text>
-Twist 3U
-Merfolks and all mounted/&amp;C-creatures have horsemanship.
-Merfolk/Astral Cast/Unmorph ] %R
+<text>Untwisted--[Arisen/Kicker 1] ] *F, Twist 3U
+Merfolks and all mounted/&amp;C-creatures have horsemanship
+Merfolk/Astral Cast/Unmorph ] Small %R
 ------------------------------------------------
-*FRite 2/UU: Return any non-basic permanent.
-*FRite 3U: Return all creatures that cost =[ your Islands.</text>
+*FRite 2/UU: Return any/[each other] nonland permanent [that entered this turn.]
+*FRite 3U: Return all creatures that cost &lt;= your Islands.</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Merfolk</type><maintype>Creature</maintype><manacost>2/UUU</manacost><cmc>4</cmc><colors>U</colors><coloridentity>U</coloridentity><pt>3/3</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Merfolk</type></card>
@@ -5746,11 +5746,13 @@ Soul Attacks ] Choose one for each two attackers &amp;M--
 
 <card>
 <name>Eager Conscripts</name>
-<text>Dash 3R, Boon 2RR
+<text>Dwarfs have ninjutsu*- 1
+{Arisen Ninjas have slow strike}
 
-Birth|'Lone Attack' ] Mighty %R hexing this|it
+Dash 12/RR, [Boon 3R]
+Birth/[*E]|'Lone Attack' ] Mighty %R hexing [!this!]/any
 --------------------------------------------
-*FRite 3H/RH/R|'*R5RRR': Borrow any|all nonland permanent. Untap that|those permanent with haste, {tapped and attacking}.</text>
+*FRite 3H/RH/R|'*R5RRR': Borrow any|all nonland permanent. Untap that|those permanent with haste.</text>
 <prop><layout>normal</layout><side>front</side><type>Artifact Creature -- Dwarf Golem</type><maintype>Creature</maintype><manacost>2/R2/R2/R</manacost><cmc>6</cmc><colors>R</colors><coloridentity>R</coloridentity><pt>3/3</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Artifact Creature -- Dwarf Golem</type></card>
@@ -6365,14 +6367,17 @@ T: Invoke a hasty clone of any creature/artifact you/*Wplayer controls.
 
 <card>
 <name>Knuckles, Dwarfen Plunderer</name>
-<text>
+<text>Alliance
+Allies have ninjutsu*- 1
+Attacking creatures get double strike.
+
 Alliance
-Double strike, trample, haste
-Ally Strikes ] Exile that fiend's top. Cast it for its cost or create a Gold.
+Double strike, haste, trample
+Ally Strikes ] Exile defender’s top. Cast it or create a Gold.
 
 Friend Findcard Cast ] *S on each Scout/Rogue/Pirate/Ally.
 
-30 Artifacts--*U ] you win.
+30 Artifacts--*U ] You win.
 </text>
 <prop><layout>normal</layout><side>front</side><type>Legendary Creature -- Dwarf Pirate Ally</type><maintype>Creature</maintype><manacost>2RR</manacost><cmc>4</cmc><colors>R</colors><coloridentity>R</coloridentity><pt>2/4</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
@@ -8597,14 +8602,14 @@ T: Untap t Forests/[Lands].
 
 <card>
 <name>Treetop Dryad</name>
-<text>Morph G, Token/Morph creatures have reach.
-&amp;UGreen Permanents have â€œT: Any creature gets +1/+1.â€
+<text>Morph G, Token/Morph/'creatures with Morph' have reach.
+Each *Ss ] *Ss + *S
+Birth ] Create a Potion
 
 Sacrifice/ Each Unmorph ] Search a basic land/'colossal creature'. Arise lands searched this way tapped.
 XX/G, Sacrifice: Any creature gets X *S.
 
-*T--Buried sorceries/charms have â€œ*T-*FRite cG: Any permanent gets c *S and evolves also into a creature.
-</text>
+*T--Buried sorceries/charms have "*T-*FRite cG: Any permanent gets c *S and evolves also into a creature."</text>
 <prop><layout>normal</layout><side>front</side><type>Enchantment Creature -- Elf Incarnation</type><maintype>Creature</maintype><manacost>1G</manacost><cmc>2</cmc><colors>G</colors><coloridentity>G</coloridentity><pt>1/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Enchantment Creature -- Elf Incarnation</type></card>
@@ -12761,7 +12766,7 @@ Remove *P. Â§P--*F-Cast 0 with haste.)
 <text>
 {*S}, [Â§WÂ§G]--*S*S
 Birth/Attack ] Attach any Gears/[Auras] to it.
-&amp;S--Create ] Instead/[also] create a Food, Clue and a Gold.
+&amp;S--Nonsoul|[Soul] Create ] Instead create a Food, Clue and|or a Gold.
 Â§S--T: Scry X. Where X are your artifacts.
 T: Add CC for each artifact you reveal.
 Unarmed Untapped--Ruin ] Add CCC.</text>
@@ -12966,15 +12971,18 @@ Omen XW/U: Exile any X+1 nonland permanent. Then cards exiled this way arise now
 
 <card>
 <name>Containment Construct II</name>
-<text>Twist B/RB/R
-Â§R--Haste, Â§B--Menace
-Creatures that share a static ability with this must be blocked by an additional creature.
+<text>[Â§R]--Goblins can’t be countered
+[True Metal Birth] ] Create a 1/1 Artifact Imp
+2/R, T: Tokens get haste and enters untapped.
+
+Twist B/RB/R
+[Â§B]--Menace
 *A/Cast--[Any] Discard ] Exile that card instead. 
 {Play it until your next *E. Pay B/R instead of S for fiend cards.}
 ----------------------------------------------------
 Rite *H1BR: Choose a fiend {creature}. 
  *D*D*D to that fiend {creature}. 
- That fiend discards 2 ...</text>
+ That fiend/ its owner discards 2 ...</text>
 <prop><layout>normal</layout><side>front</side><type>Artifact Creature -- Goblin Construct</type><maintype>Creature</maintype><manacost>2</manacost><cmc>2</cmc><pt>2/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Artifact Creature -- Goblin Construct</type></card>
