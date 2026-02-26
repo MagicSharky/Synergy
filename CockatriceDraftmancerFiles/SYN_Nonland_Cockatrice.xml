@@ -114,13 +114,15 @@ Rise X other buried creature cards/[Morphs] [morphed and shuffled]. Exile each n
 
 <card>
 <name>Acolyte of the Source</name>
-<text>
-Birth ] Acolyte has protection from a color.
-White creatures have â€œT: Heal.â€
-W: %R
+<text>Other Ally Birth ] *P. This gets +2/+2 for each *P.
+Birth ] Alliance or Acolyte has protection from a color if it is §P.
+§P—White creatures have “T: Heal.”
+§P|&amp;P—W|pW: Tiny|Weak %R
 W, Sacrifice: Return a buried artifact and/or charm.
-XXW, Sacrifice: Destroy each artifact that cost X. --------------------------------------------------
-[*FRite W]: Protect any creature/[target] from that/[a] color</text>
+XXW, Sacrifice: Destroy each artifact that cost X.
+—————————————————————————
+[*FRite W]: Protect any creature/[target] from that/[a] color
+[*FRite 1W]: Rise a/[each] died ally/small permanent.</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Merfolk Priest</type><maintype>Creature</maintype><manacost>1W</manacost><cmc>2</cmc><colors>W</colors><coloridentity>W</coloridentity><pt>1/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Merfolk Priest</type></card>
@@ -1676,15 +1678,13 @@ Priest/Astral Death/ Second Cast ] Create a 1/1 flying Spirit
 
 <card>
 <name>Tribe Mother</name>
-<text>
-*FRite 1W: Rise each died ally\small permanent.
---------------------------------------------------------
-Alliance, Kicker 1|W ] *S|*P
-Other Ally Birth ] *S.
-Â§SÂ§P--T: Any permanent gets protection from colorless/'a color'. (1/1)
-[LEVEL -]: )
-[LEVEL +]: )
-</text>
+<text>Tribe Mother
+Kicker 2|W ] *S|*P
+§S§P—T: Any permanent gets protection from colorless/’a color’.  p/t = 1/1
+
+Level + *C ] Put *S on any {two} creatures.  p/t = 0/1
+
+Level - Astral Birth ] Draw  p/t =0/2</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Human Priest Ally</type><maintype>Creature</maintype><manacost>W</manacost><cmc>1</cmc><colors>W</colors><coloridentity>W</coloridentity><pt>1/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Human Priest Ally</type></card>
@@ -3979,12 +3979,14 @@ Choose one (and with Kicker+ 1B/*V â€œanotherâ€) --
 
 <card>
 <name>Devious Nosferatu</name>
-<text>
-[Â§U]--Ninjutsu HH/BH/U
+<text>Friend/Fiend Half Life—Vampires have twist
+[§U]—Ninjutsu HH/BH/U
 Deathtouch, *Q-Strike
 {Exhausted} Strike ] That player discards, {unless you pay c to create a copy of a creature exiled this turn.}
-!Any %H--*U! ] Bleed to draw.
-Copy each â€œFriend/[Fiend] Soul-'Loss/Death'â€-Trigger</text>
+!Any %H—*U! ] Bleed to draw.
+Copy each “Friend/[Fiend] Soul-’Loss/Death’”-Trigger
+———————————————————————————————
+*FRite 2/BB: Deal *D to any creature. Destroy wounded fiend creatures.</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Vampire Mage</type><maintype>Creature</maintype><manacost>1B</manacost><cmc>2</cmc><colors>B</colors><coloridentity>B</coloridentity><pt>3/3</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Vampire Mage</type></card>
@@ -4053,7 +4055,9 @@ All colorless creatures have offender.
 Other Zombie Death ] Morph it instead
 Colorless Strike ] Morph/Unmorph it or Proliferate or *Q*Q*Q.
 
-*T--1B: Exile another creature: Rise</text>
+*T—1B: Exile another creature: Rise
+———————————————————————————————
+Any|No Half Life—Rite 1BB|3BB: Destroy all creatures. Exile this.</text>
 <prop><layout>normal</layout><side>front</side><type>Artifact Creature -- Zombie</type><maintype>Creature</maintype><manacost>2H/B</manacost><cmc>3</cmc><colors>B</colors><coloridentity>B</coloridentity><pt>2/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Artifact Creature -- Zombie</type></card>
@@ -12776,12 +12780,14 @@ Unarmed Untapped--Ruin ] Add CCC.</text>
 
 <card>
 <name>Arcane Proxy II</name>
-<text>Morph 12/U2/U
-Â§U--Alliance
-Allies and Colorless spells have *F.
-â€œPrototypeâ€--Cast 1UU ] !*P*P!
-Birth/Unmorph ] Cast a buried sorcery with p*Lfor 0.
-----------------------------------------------
+<text>Morph 12/U2/U, “Prototype”—Cast 1UU ] !*P*P!
+Self-Boon 3, Arisen/Kicker 2 ] *S*S*S*S*S
+§U—Alliance
+§S—Allies and Colorless spells have *F.
+&amp;S&amp;S&amp;S&amp;S&amp;S—Flying, Trample, Indestructible, Haste
+&amp;E/&amp;S—Colorless creatures share their static keyworded abilities
+&amp;U/§S—Birth/ Each Unmorph ] Cast a *Tsorcery with its p*Lfor 0.
+————————————————————————————
 *FRite 2/U: This turn spells cast with additional or alternate cost are countered. Base this.</text>
 <prop><layout>normal</layout><side>front</side><type>Flash Artifact Creature -- Mage Ally</type><maintype>Creature</maintype><manacost>7</manacost><cmc>7</cmc><pt>4/3</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
@@ -13827,10 +13833,16 @@ Attach *R2/U2/U
 
 <card>
 <name>Strange Altar</name>
-<text>Myth/Metal/Land-Clone
+<text>Myth/Metal/Land-Clone, {*P}, Kicker 1 ] *S
+WUBRG, Sacrifice: If you control lands with five different basic land types and a creature of each color, you win.
+
+Level -
 Sacrifice a creature: Add CC or p *Q.
-*V--T: Proliferate.
-WUBRG, Sacrifice: If you control lands with five different basic land types and a creature of each color, you win.</text>
+*V—T: Proliferate.
+
+Level +/0
+&amp;S—Creatures have *S for each artifact mana spent to cast them.
+T: Create a Gold</text>
 <prop><layout>normal</layout><side>front</side><type>Legendary Artifact</type><maintype>Artifact</maintype><manacost>3</manacost><cmc>3</cmc></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Legendary Artifact</type></card>
