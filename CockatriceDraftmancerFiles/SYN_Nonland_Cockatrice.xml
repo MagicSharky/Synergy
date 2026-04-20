@@ -245,7 +245,7 @@ Rebound *FOmen W: Exile a/[any] permanent, then arise it.</text>
 <name>Astral Boon</name>
 <text>{*T}Self-Boon WWW
 
-Each Friend Block ] Cards have *F.
+Friend Block ] Cards have *F.
 Astral/Metal Birth ] Priests are indestructible.
 Charmed creatures are also Priests.
 Priests get +1/+1 and lifelink.
@@ -778,15 +778,18 @@ XX/WW, Discard: %R (1/1)
 
 <card>
 <name>Holy Aven</name>
-<text>*C/Kicker 1--*F, This can't imprint itself
-Â§WÂ§W--Flying, [Â§WÂ§WÂ§W]--Lifelink
+<text>Fiend Search ] That find search only its top 4.
+§W§W—[Flying], [§W§W§W], [Lifelink]
 
-Birth/Exhausted ] Imprint a /{any blocking/attacking} permanent.
-Loss/'Any *E' ) This imprinted cards [may] arise.
-Fiend Search ] That find may search only its top 4.
---------------------------------------------------------
-*FRite W: Destroy any nonland permanent with cost 1*L/'less than your Priests'.
-Rite 2WW: Rise each weak buried creature card.</text>
+Priest 3/1 C/Kicker 1—*F, This can’t imprint itself
+Birth/’Blocking/Attacking’—Exhaust:] Imprint a/’any (!without §W§W! “blocking/attacking”)’ nonland permanent.
+!Loss/’Any *E’! ] This imprinted cards [may] arise
+
+[Bard] 1/3 True Friend Ritual/Astral SoulHex ] Each creature gets *S.
+
+————————————————————————————
+*FRite W: Destroy any nonland permanent with cost 1/0/’less than your Priests’.
+“Requiem”—Rite 2WW: Rise each weak buried creature card.</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Bird Priest</type><maintype>Creature</maintype><manacost>2W</manacost><cmc>3</cmc><colors>W</colors><coloridentity>W</coloridentity><pt>3/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Bird Priest</type></card>
@@ -3699,7 +3702,7 @@ Vampires have wither and â€œStrike ] *S.â€
 Zombies have *Q-Strike and Delve
 Zombie Birth ] Choose one--
 â€¢ It gets *S for each buried/exiled creature this turn.
-â€¢ Each nonZombie gets -1/-1.
+â€¢ All nonZombie gets -1/-1
 â€¢ Any player discards
 ------------------------------------------------------
 Â§B--Rite X: Search X creatures and bury them. {Archive this.}</text>
@@ -3894,14 +3897,18 @@ Rite XB: Proliferate or A fiend discards X.
 <type>Creature -- Zombie Spellshaper</type></card>
 
 <card>
-<name>Dark Confidant II</name>
+<name>Dark Savant</name>
 <text>
-Self-Boon BR
-Goblin/Exhausted creatures have lifelink.
-First Non*C Strike ] %R without {}
-!*U! ) Reveal your top then draw it and bleed c.
-------------------------------------------------------
-Rite B: Any player discard a cards at random {for its *V}.</text>
+[Self-Boon BR]—Goblin/Exhausted creatures have lifelink.
+[First Non*C Strike] ] First %R without {}
+
+[Dealer ]   !*U! ] Reveal and draw your top. Bleed c.
+[Healer]    *E ] Second %R without {}
+————————————————————————————
+
+Rite B: Any player discard a card at random {for its *V}.
+Rite B: Rise a creature with c =[ h {an opponent controls}.
+</text>
 <prop><layout>normal</layout><side>front</side><type>Creature -- Goblin Vampire</type><maintype>Creature</maintype><manacost>1B</manacost><cmc>2</cmc><colors>B</colors><coloridentity>B</coloridentity><pt>2/1</pt></prop><tablerow>1</tablerow>
 <set>SYN</set>
 <type>Creature -- Goblin Vampire</type></card>
@@ -5534,6 +5541,7 @@ Charms/[Creatures] have â€œ*T--Unearth 0â€.
 Any *T-Cast/Risen ] *D*D to any target.
 3 *TRituals--Other Sorceries have â€œ*T--Castâ€.
 ---------------------------------------------------
+*FRite R: A sorcery gets *T-Cast. Base this.
 Rite 4RR: Each player sacrifice four lands.
 *D*D*D*D to each creature and planeswalker. Then exile this.</text>
 <prop><layout>normal</layout><side>front</side><type>Legendary Enchantment</type><maintype>Legendary</maintype><manacost>2R</manacost><cmc>3</cmc><colors>R</colors><coloridentity>R</coloridentity></prop><tablerow>1</tablerow>
@@ -13065,6 +13073,9 @@ Rite W/ Omen RW: Search a Gear.</text>
 <card>
 <name>Eater of Virtue II</name>
 <text>
+Self-Boon 12/WR/W
+*E ] Create a 2/1 Dwarf Samurai Spirit {and attach a buried Aura/Gear to it}.
+—————————————————————————————————
 Kicker+ 1W ] Birth ] Imprint any fiend creature
 Loss ] All imprinted fiend creatures arise, friend creatures stay imprinted.
 Attach to a creature/planeswalker *R1

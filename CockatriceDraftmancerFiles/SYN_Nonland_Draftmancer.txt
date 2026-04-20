@@ -1705,11 +1705,11 @@
     }
   },
   {
-    "name": "Dark Confidant II",
+    "name": "Dark Savant",
     "type": "Custom",
     "mana_cost": "{0}",
     "image_uris": {
-      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYN/Dark%20Confidant%20II.png"
+      "en": "https://raw.githubusercontent.com/MagicSharky/Synergy/main/SYN/Dark%20Savant.png"
     }
   },
   {
@@ -8376,7 +8376,7 @@ Cyclone Witch
 Cyclonic Cataclism
 Dancing Devil
 Danjal, Heavenly Protector
-Dark Confidant II
+Dark Savant
 Dark Impostor II
 Dark Prayers
 Dark Salvation II
